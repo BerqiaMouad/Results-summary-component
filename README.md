@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Url](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/BerqiaMouad/Results-summary-component)
+- Live Site URL: [Live Url](https://results-summary-component-submission.netlify.app/)
 
 ## My process
 
